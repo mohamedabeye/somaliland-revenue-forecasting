@@ -1,0 +1,6 @@
+,Bias,MAD,MAPE (%),MSE
+"ARIMA(0,1,0) with drift (log)",111.1,556.7,14.6,419439.0
+Log-linear trend,906.1,906.1,19.3,1138075.0
+Bayesian log-linear,946.3,946.3,20.2,1226623.0
+Holt exponential smoothing (log),391.3,766.4,20.4,861114.0
+Linear trend (original 2015 thesis),1972.1,1972.1,41.1,5164291.0

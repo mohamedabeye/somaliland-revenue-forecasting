@@ -1,0 +1,4 @@
+Original linear trend: revenue = -1,109,342 + 554.3 * year
+  R^2 = 0.757; fitted value for 1999 = -1,290 million SL Sh
+Log-linear trend: annual growth = 32.5%
+  R^2 (original scale) = 0.970
