@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24464265.svg)](https://doi.org/10.5281/zenodo.24464265)
+
 # Forecasting Customs Revenue in Somaliland: My MSc Thesis, Revisited
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-green) ![Status](https://img.shields.io/badge/status-reproducible-brightgreen)
@@ -142,6 +144,10 @@ somaliland-revenue-forecasting/
 
 ## Citation
 
-If you use this work, please cite:
+If you use this work, please cite the preprint:
+
+> Abeye, M. A. (2026). *Forecasting Customs Revenue in a Data-Scarce Economy: Revisiting a Linear Trend Model for Kalabaydh, Somaliland* [Preprint]. Zenodo. https://doi.org/10.5281/zenodo.24464265
+
+The original thesis:
 
 > Abeye, M. A. (2015). *Revenue Management and Forecasting System: A Case Study for Kalabaydh Custom in Somaliland*. MSc thesis, Kampala International University. Revisited analysis (2026): https://github.com/mohamedabeye/somaliland-revenue-forecasting
